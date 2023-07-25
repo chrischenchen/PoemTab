@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "PoemTab",
+  "version": "1.0",
+  "permissions": ["https://v1.jinrishici.com/"],
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
